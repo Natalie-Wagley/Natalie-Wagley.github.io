@@ -1,0 +1,17 @@
+.hello-world {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+    font-style: italic;
+    border: 4px solid black;
+    padding: 10px 20px 10px 20px;
+}
+
+.hello-world-box {
+    margin: 100px auto;
+    width: 360px;
+    align-content: center;
+    
+    
+}
