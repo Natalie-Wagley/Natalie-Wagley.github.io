@@ -1,0 +1,64 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+#canvasDiv {
+  display: block;
+    float: right;
+  margin: 30px 130px 20px 5px;
+    
+}
+
+body {
+    font-family: 'Syne', sans-serif;
+    
+}
+
+h1{
+    font-weight: 600;
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+
+}
+
+.header {
+    background-color: #D98D30;
+    margin: auto;
+    padding-bottom: 40px;
+}
+
+.intro-paragraph {
+    margin: 30px 10px 5px 70px;
+    float: left;
+    font-size: 30px;
+    
+}
+
+.paragraph {
+    font-size: 20px;
+    width: 550px;
+}
+
+footer {
+    clear: both;
+    
+    font-size: 18px;
+  margin-left: 70px;
+  margin-bottom:50px;
+}
+
+
+
